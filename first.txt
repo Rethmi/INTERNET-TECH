@@ -1,0 +1,6 @@
+Here is outr frist day of Internet technologics B72.
+
+    First day content
+============================
+
+    1.Version controlling System (VCS)
